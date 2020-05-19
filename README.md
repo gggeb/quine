@@ -1,0 +1,4 @@
+quine
+=====
+
+my first quine
